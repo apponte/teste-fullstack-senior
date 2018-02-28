@@ -1,5 +1,5 @@
 # Teste Apponte - Fullstack Sênior
-Desenvolver uma API utilizando Node.js que será consumido por um APP em Ionic
+Desenvolver uma pequena API utilizando Node.js que será consumida por um APP simples em Ionic
 
 ## Instruções
 - Siga as especificações abaixo.
